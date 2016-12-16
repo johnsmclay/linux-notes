@@ -42,6 +42,22 @@ includes features such as:
 
 </tr>
 
+<tr>
+ <td>zsh</td>
+ <td>The Z shell (zsh) is a Unix shell that can be used as an interactive login shell and as a powerful command interpreter for shell scripting. Zsh is an extended Bourne shell with a large number of improvements, including some features of bash, ksh, and tcsh. 
+ <br/>Z shell includes features such as:
+  <ul>
+  <li>Highly customizable. For a manager and themes see <a href="https://github.com/robbyrussell/oh-my-zsh">OhMyZsh</a></li>
+  <li>Superior tab completion, especially for parameters to applications (like hosts on SSH)</li>
+  <li>Sharing of command history among all running shells</li>
+  <li>Editing of multi-line commands in a single buffer</li>
+  <li>Git completion</li>
+  <li>Path expansion</li>
+  </ul>
+  See <a href="http://www.slideshare.net/jaguardesignstudio/why-zsh-is-cooler-than-your-shell-16194692">here for more Z Shell propaganda</a>
+ </td>
+</tr>
+
 <tr> <td>sh</td> <td>The Bourne shell is an earlier version of the Bash shell,
 and is similar in many ways. <b>Sh </b>is the original shell created by Steve
 Bourne.</td>
