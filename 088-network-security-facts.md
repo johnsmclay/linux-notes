@@ -26,7 +26,7 @@ computer.
 
 </li>
 
-<li>Use <b>dpkg âget-selections</b> to see installed Debian packages on the
+<li>Use <b>dpkg --get-selections</b> to see installed Debian packages on the
 computer.
 
 </li>
