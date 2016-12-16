@@ -1,7 +1,4 @@
----
-layout: page
-title:  Init Script Configuration Facts
----
+# Init Script Configuration Facts
 
 Init script configuration is the process of specifying whether specific
 daemons start at a specified runlevel. Init scripts:

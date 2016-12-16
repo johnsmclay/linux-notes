@@ -1,7 +1,4 @@
----
-layout: page
-title:  Linux Boot Process
----
+# Linux Boot Process
 
 The boot process for a Linux computer includes the following general stages:
 

@@ -1,7 +1,4 @@
----
-layout: page
-title:  Vim Commands
----
+# Vim Commands
 
 Vim (vi improved), also referred to as _vi_, is a utility that creates and
 modifies text files. It is the standard command-line text editor included with

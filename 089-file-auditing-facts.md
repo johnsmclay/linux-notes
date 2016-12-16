@@ -1,7 +1,4 @@
----
-layout: page
-title:  File Auditing Facts
----
+# File Auditing Facts
 
 File auditing involves looking for files that pose a security risk to the
 computer, including:

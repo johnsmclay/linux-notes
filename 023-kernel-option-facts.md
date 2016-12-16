@@ -1,7 +1,4 @@
----
-layout: page
-title:  Kernel Option Facts
----
+# Kernel Option Facts
 
 _Kernel options_ allow customization of Linux boot parameters to permit
 administrators to fix several problems related to booting. The following table

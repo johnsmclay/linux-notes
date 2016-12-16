@@ -1,7 +1,4 @@
----
-layout: page
-title:  User Security And Restriction Facts
----
+# User Security And Restriction Facts
 
 When considering user security, keep in mind the following:
 

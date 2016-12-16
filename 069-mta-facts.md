@@ -1,7 +1,4 @@
----
-layout: page
-title:  Mta Facts
----
+# Mta Facts
 
 A Mail Transfer Agent (MTA) sends messages between clients on a local system
 or over the Internet. MTAs:

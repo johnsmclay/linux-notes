@@ -1,7 +1,4 @@
----
-layout: page
-title:  Text Stream Processing Commands
----
+# Text Stream Processing Commands
 
 A_ text stream_ is any information printed to standard output (usually the
 screen). For example, the **ls** command sends the list of files to the

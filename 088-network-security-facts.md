@@ -1,7 +1,4 @@
----
-layout: page
-title:  Network Security Facts
----
+# Network Security Facts
 
 The following table describes the general procedures for increasing network
 security of a Linux system:

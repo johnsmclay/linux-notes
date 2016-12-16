@@ -1,7 +1,4 @@
----
-layout: page
-title:  Rpm Facts
----
+# Rpm Facts
 
 The Red Hat Package Manager (RPM) is a utility that installs application
 packages. RPM:

@@ -1,7 +1,4 @@
----
-layout: page
-title:  Login Blocking Facts
----
+# Login Blocking Facts
 
 Administrators can prevent (i.e., block) users from logging in to a Linux
 computer while resolving serious issues, and can display a message to users

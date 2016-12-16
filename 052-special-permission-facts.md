@@ -1,7 +1,4 @@
----
-layout: page
-title:  Special Permission Facts
----
+# Special Permission Facts
 
 Be aware of the following special permissions:
 

@@ -1,7 +1,4 @@
----
-layout: page
-title:  X Window System Facts
----
+# X Window System Facts
 
 X Window System is the Graphical User Interface (GUI) for Linux systems. It is
 a modular system that gives administrators control over the components that

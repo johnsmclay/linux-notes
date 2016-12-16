@@ -1,7 +1,4 @@
----
-layout: page
-title:  File System Maintenance Facts
----
+# File System Maintenance Facts
 
 Use the following commands to maintain file system integrity:
 

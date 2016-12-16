@@ -1,7 +1,4 @@
----
-layout: page
-title:  Xargs Facts
----
+# Xargs Facts
 
 The **xargs** command reads items from the standard input and breaks up long
 lists of arguments into smaller, usable lists. Xargs:

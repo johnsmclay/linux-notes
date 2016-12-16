@@ -1,7 +1,4 @@
----
-layout: page
-title:  Permission Facts
----
+# Permission Facts
 
 Every file has an _inode_ (information node) that stores information about the
 file, including when the file was last modified, file size, data block

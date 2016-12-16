@@ -1,7 +1,4 @@
----
-layout: page
-title:  Tar Facts
----
+# Tar Facts
 
 The **tar** (tape archive) utility takes the contents of several files and
 stores them as a single file. Tar:

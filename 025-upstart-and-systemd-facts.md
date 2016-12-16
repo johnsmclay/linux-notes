@@ -1,7 +1,4 @@
----
-layout: page
-title:  Upstart And Systemd Facts
----
+# Upstart And Systemd Facts
 
 Upstart is an event-based replacement for the /sbin/init daemon; it will start
 and stop tasks and services whenever the Linux system enters a specific

@@ -1,7 +1,4 @@
----
-layout: page
-title:  User And Group Facts
----
+# User And Group Facts
 
 _User_ accounts control the ability to log on to a system, access resources,
 and perform certain actions. _Groups_ provide a means of grouping users for

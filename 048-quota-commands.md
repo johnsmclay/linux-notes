@@ -1,7 +1,4 @@
----
-layout: page
-title:  Quota Commands
----
+# Quota Commands
 
 Disk quotas prevent a user or group from using a disproportionate amount of
 disk space on a volume. Quota implementations include:

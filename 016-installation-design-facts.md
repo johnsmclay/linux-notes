@@ -1,7 +1,4 @@
----
-layout: page
-title:  Installation Design Facts
----
+# Installation Design Facts
 
 Be aware of the following advantages to planning and designing a Linux
 installation:

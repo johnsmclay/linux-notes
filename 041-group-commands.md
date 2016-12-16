@@ -1,7 +1,4 @@
----
-layout: page
-title:  Group Commands
----
+# Group Commands
 
 Use the following commands to manage group accounts and group membership:
 

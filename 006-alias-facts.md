@@ -1,7 +1,4 @@
----
-layout: page
-title:  Alias Facts
----
+# Alias Facts
 
 An _alias_ is a custom command that performs a specific action. Most
 distributions have aliases that are invoked at startup; however, an alias can

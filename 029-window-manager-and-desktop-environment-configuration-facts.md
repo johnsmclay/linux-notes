@@ -1,7 +1,4 @@
----
-layout: page
-title:  Window Manager And Desktop Environment Configuration Facts
----
+# Window Manager And Desktop Environment Configuration Facts
 
 When installing a Linux distribution, the installation utility often installs
 several window managers, but only one desktop environment. The following steps

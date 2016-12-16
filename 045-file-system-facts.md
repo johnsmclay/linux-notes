@@ -1,7 +1,4 @@
----
-layout: page
-title:  File System Facts
----
+# File System Facts
 
 The file system determines how a computer's files are organized on a hard
 drive. Linux supports many different file system types. The table below

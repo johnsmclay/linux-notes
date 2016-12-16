@@ -1,7 +1,4 @@
----
-layout: page
-title:  Xinetd And Tcp Wrapper Facts
----
+# Xinetd And Tcp Wrapper Facts
 
 Xinetd is a super daemon that manages many Internet and network services.
 Xinetd:

@@ -1,7 +1,4 @@
----
-layout: page
-title:  Ownership Commands
----
+# Ownership Commands
 
 When a user creates a file (or directory), the user and the user's primary
 group receive ownership for the file (or directory). Only a file owner and the

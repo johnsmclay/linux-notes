@@ -1,7 +1,4 @@
----
-layout: page
-title:  Directory Commands
----
+# Directory Commands
 
 The following table describes several basic commands when managing
 directories:

@@ -1,7 +1,4 @@
----
-layout: page
-title:  Addressing Method Facts
----
+# Addressing Method Facts
 
 The following table lists several options for assigning IP addresses.
 

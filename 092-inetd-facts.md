@@ -1,7 +1,4 @@
----
-layout: page
-title:  Inetd Facts
----
+# Inetd Facts
 
 Inetd is a super daemon that manages many Internet and network services
 (similar to xinetd). Inetd performs the same functions as xinetd; however,

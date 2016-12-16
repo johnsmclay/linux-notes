@@ -1,7 +1,4 @@
----
-layout: page
-title:  The Root User And Sudoers File
----
+# The Root User And Sudoers File
 
 The root user account is the Linux system _superuser_, and can perform any
 task. Some utilities do not work if the administrator is not logged in as the

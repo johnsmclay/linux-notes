@@ -1,7 +1,4 @@
----
-layout: page
-title:  Cron Facts
----
+# Cron Facts
 
 The **cron** daemon (crond) schedules tasks to run on a regular basis. **
 cron** uses the following configuration files:

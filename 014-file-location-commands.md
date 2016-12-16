@@ -1,7 +1,4 @@
----
-layout: page
-title:  File Location Commands
----
+# File Location Commands
 
 Use the following commands to find file locations:
 

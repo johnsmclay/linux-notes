@@ -1,7 +1,4 @@
----
-layout: page
-title:  Network Configuration Facts
----
+# Network Configuration Facts
 
 Linux uses the following files for network configuration:
 

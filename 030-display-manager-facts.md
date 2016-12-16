@@ -1,7 +1,4 @@
----
-layout: page
-title:  Display Manager Facts
----
+# Display Manager Facts
 
 The display manager is a modular tool that manages the graphical display on a
 computer and has functions that provide users with a graphical login prompt to

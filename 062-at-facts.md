@@ -1,7 +1,4 @@
----
-layout: page
-title:  At Facts
----
+# At Facts
 
 The **at** daemon (atd) schedules tasks to occur at a specific time. **at**:
 

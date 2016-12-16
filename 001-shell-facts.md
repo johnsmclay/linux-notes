@@ -1,7 +1,4 @@
----
-layout: page
-title:  Shell Facts
----
+# Shell Facts
 
 The Linux shell is the Command Line Interface (CLI) or Text User Interface
 (TUI) that administrators use to control a Linux operating system. Users and

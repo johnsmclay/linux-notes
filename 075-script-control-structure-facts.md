@@ -1,7 +1,4 @@
----
-layout: page
-title:  Script Control Structure Facts
----
+# Script Control Structure Facts
 
 In addition to the basic commands, scripts can contain the following types of
 control structures:

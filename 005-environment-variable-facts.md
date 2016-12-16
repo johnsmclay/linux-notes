@@ -1,7 +1,4 @@
----
-layout: page
-title:  Environment Variable Facts
----
+# Environment Variable Facts
 
 An _environment variable_ is a setting that the operating system or programs
 working in the operating system access. Environment variables make up the user

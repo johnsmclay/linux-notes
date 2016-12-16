@@ -1,7 +1,4 @@
----
-layout: page
-title:  Help Facts
----
+# Help Facts
 
 Help pages are part of every Linux distribution. They provide information
 about options and uses for the nearly 1000 commands that are available on a

@@ -1,7 +1,4 @@
----
-layout: page
-title:  X Server Configuration Facts
----
+# X Server Configuration Facts
 
 Before configuring the X server, administrators must gather certain
 information about their hardware, such as:

@@ -1,7 +1,4 @@
----
-layout: page
-title:  Print Management Commands
----
+# Print Management Commands
 
 The Line Printer Daemon (LPD) is the older print management daemon for Linux
 systems. Although LPD might be present on older systems, the majority of the

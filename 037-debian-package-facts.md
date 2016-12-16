@@ -1,7 +1,4 @@
----
-layout: page
-title:  Debian Package Facts
----
+# Debian Package Facts
 
 Debian packages are preconfigured installation packages similar to RPM
 packages. Debian packages:

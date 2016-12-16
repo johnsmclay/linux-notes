@@ -1,7 +1,4 @@
----
-layout: page
-title:  Time Zone Facts
----
+# Time Zone Facts
 
 A _time zone_ is a geographic region of the world that has the same standard
 time. Be aware of the following details:

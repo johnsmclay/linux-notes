@@ -1,7 +1,4 @@
----
-layout: page
-title:  Openssh Facts
----
+# Openssh Facts
 
 OpenSSH is a tool that encrypts network traffic over a subnet or Internet.
 OpenSSH is an open version of Secure Shell (SSH) implemented on many Linux

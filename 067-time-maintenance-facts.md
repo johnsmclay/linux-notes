@@ -1,7 +1,4 @@
----
-layout: page
-title:  Time Maintenance Facts
----
+# Time Maintenance Facts
 
 Applications and services, especially those that are used for security
 purposes, require accurate time. Be aware of the following details:

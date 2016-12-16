@@ -1,7 +1,4 @@
----
-layout: page
-title:  Shell Commands Introduction
----
+# Shell Commands Introduction
 
 The Linux shell is the command line interface (CLI) or text user interface
 (TUI) that administrators use to control a Linux computer. While many Linux

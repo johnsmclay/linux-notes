@@ -1,7 +1,4 @@
----
-layout: page
-title:  Mounting Facts
----
+# Mounting Facts
 
 _Mounting_ is the process of making a device accessible to users through the
 directory tree. The directory to which the device or partition is attached is

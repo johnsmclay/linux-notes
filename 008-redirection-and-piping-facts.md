@@ -1,7 +1,4 @@
----
-layout: page
-title:  Redirection And Piping Facts
----
+# Redirection And Piping Facts
 
 ####
 

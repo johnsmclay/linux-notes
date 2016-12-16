@@ -1,7 +1,4 @@
----
-layout: page
-title:  Partition Management Facts
----
+# Partition Management Facts
 
 A _partition_ is a logical division of a storage device associated with a hard
 disk drive. A hard disk drive can have a single partition or multiple

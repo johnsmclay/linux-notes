@@ -1,7 +1,4 @@
----
-layout: page
-title:  Cups Facts
----
+# Cups Facts
 
 CUPS (Common Unix Print System) is widely used on nearly every current Linux
 distribution for managing printers and printing. CUPS has the following

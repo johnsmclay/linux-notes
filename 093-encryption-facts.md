@@ -1,7 +1,4 @@
----
-layout: page
-title:  Encryption Facts
----
+# Encryption Facts
 
 Encryption is a security technique that encodes information so that only
 someone with the proper key can decode it. Be aware of the following

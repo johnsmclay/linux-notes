@@ -1,7 +1,4 @@
----
-layout: page
-title:  Filesystem Hierarchy Standard Facts
----
+# Filesystem Hierarchy Standard Facts
 
 The Filesystem Hierarchy Standard (FHS) governs the unified file system for
 Linux systems by defining a standard set of directories, subdirectories, and

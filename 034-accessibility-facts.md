@@ -1,7 +1,4 @@
----
-layout: page
-title:  Accessibility Facts
----
+# Accessibility Facts
 
 Accessibility options (also known as Assistive Technologies (AT)) allow people
 with tactile, audible, and visual impairments to use Linux systems.

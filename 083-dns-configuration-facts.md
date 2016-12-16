@@ -1,7 +1,4 @@
----
-layout: page
-title:  Dns Configuration Facts
----
+# Dns Configuration Facts
 
 Domain Name Service (DNS) resolves IP addresses to domain names that people
 can remember. The following table lists the files that administrators use to

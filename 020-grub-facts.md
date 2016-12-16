@@ -1,7 +1,4 @@
----
-layout: page
-title:  Grub Facts
----
+# Grub Facts
 
 The Grand Unified Boot Loader (GRUB) is a utility that boots a Linux kernel,
 or any other operating system. GRUB:

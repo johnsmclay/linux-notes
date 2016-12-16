@@ -1,7 +1,4 @@
----
-layout: page
-title:  File Commands
----
+# File Commands
 
 The following table describes several basic commands when managing files:
 

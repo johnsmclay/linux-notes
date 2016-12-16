@@ -1,7 +1,4 @@
----
-layout: page
-title:  Device Driver Facts
----
+# Device Driver Facts
 
 A _device driver_ is a software component that allows a hardware device to
 communicate with the operating system of a computer. Drivers allow an

@@ -1,7 +1,4 @@
----
-layout: page
-title:  Lvm Facts
----
+# Lvm Facts
 
 The Logical Volume Manager (LVM) provides an alternative methods to manage
 partitions on a Linux system. LVM gives a system administrator more

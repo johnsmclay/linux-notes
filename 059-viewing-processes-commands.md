@@ -1,7 +1,4 @@
----
-layout: page
-title:  Viewing Processes Commands
----
+# Viewing Processes Commands
 
 Use the following commands to view processes:
 

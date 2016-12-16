@@ -1,7 +1,4 @@
----
-layout: page
-title:  Routing Facts
----
+# Routing Facts
 
 A _router_ is a device that sends packets from one network to another network.
 Routers receive packets, read their headers to find addressing information,

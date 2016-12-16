@@ -1,7 +1,4 @@
----
-layout: page
-title:  Process Management Commands
----
+# Process Management Commands
 
 The following table lists commands you can use to manage and prioritize
 processes. When a process:

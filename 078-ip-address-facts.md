@@ -1,7 +1,4 @@
----
-layout: page
-title:  Ip Address Facts
----
+# Ip Address Facts
 
 Be aware of the following IPv4 address details:
 

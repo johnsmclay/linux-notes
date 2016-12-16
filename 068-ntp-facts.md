@@ -1,7 +1,4 @@
----
-layout: page
-title:  Ntp Facts
----
+# Ntp Facts
 
 The Network Time Protocol (NTP) is a method of setting and synchronizing
 system time between computers. NTP uses a hierarchy of clocks and computers

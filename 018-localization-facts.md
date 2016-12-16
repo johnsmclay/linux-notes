@@ -1,7 +1,4 @@
----
-layout: page
-title:  Localization Facts
----
+# Localization Facts
 
 A _locale_ is a set of files that Linux uses to determine country and
 language-specific settings for various applications. Locales:

@@ -1,7 +1,4 @@
----
-layout: page
-title:  Shutdown Facts
----
+# Shutdown Facts
 
 Turning off the power without executing the proper shutdown procedure to a
 computer can result in data loss and filesystem corruption. Linux provides

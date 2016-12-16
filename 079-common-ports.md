@@ -1,7 +1,4 @@
----
-layout: page
-title:  Common Ports
----
+# Common Ports
 
 Network ports are logical connections, provided by the TCP or UDP protocols.
 The IP protocol stack uses port numbers to determine what protocol incoming

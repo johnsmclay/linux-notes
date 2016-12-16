@@ -1,7 +1,4 @@
----
-layout: page
-title:  User Commands And Files
----
+# User Commands And Files
 
 Be aware of the following configuration files when managing user accounts:
 

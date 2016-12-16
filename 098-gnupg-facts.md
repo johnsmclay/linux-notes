@@ -1,7 +1,4 @@
----
-layout: page
-title:  Gnupg Facts
----
+# Gnupg Facts
 
 Gnu Privacy Guard (GnuPG) is an encryption tool that encrypts and digitally
 signs email, and also encrypts documents. GnuPG is an implementation of the

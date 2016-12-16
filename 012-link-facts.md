@@ -1,7 +1,4 @@
----
-layout: page
-title:  Link Facts
----
+# Link Facts
 
 Links are files that point to another file. When links are accessed, they
 reference the source file's inode_._ The _inode _specifies where a file's data

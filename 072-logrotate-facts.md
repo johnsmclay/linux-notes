@@ -1,7 +1,4 @@
----
-layout: page
-title:  Logrotate Facts
----
+# Logrotate Facts
 
 By default, most Linux distributions include the **logrotate** utility to
 automatically manage, compress, rename, and delete log files based on specific

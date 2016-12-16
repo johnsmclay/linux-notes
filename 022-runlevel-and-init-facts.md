@@ -1,7 +1,4 @@
----
-layout: page
-title:  Runlevel And Init Facts
----
+# Runlevel And Init Facts
 
 A _runlevel_ is collection of services that defines a specific system state.
 For example, Microsoft Windows has Safe Mode and regular mode which are

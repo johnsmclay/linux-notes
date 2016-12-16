@@ -1,7 +1,4 @@
----
-layout: page
-title:  Grub2 Facts
----
+# Grub2 Facts
 
 The GRUB2, the updated version of the Grand Unified Boot Loader (GRUB)
 utility, is any version of GRUB 1.98 or later. Earlier versions of GRUB are

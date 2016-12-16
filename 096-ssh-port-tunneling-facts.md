@@ -1,7 +1,4 @@
----
-layout: page
-title:  Ssh Port Tunneling Facts
----
+# Ssh Port Tunneling Facts
 
 Secure Shell (SSH) port tunneling encrypts data from non-secure protocols
 before sending the data over a network. Non-secure protocols, such as email

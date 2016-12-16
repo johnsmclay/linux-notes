@@ -1,7 +1,4 @@
----
-layout: page
-title:  Yum Facts
----
+# Yum Facts
 
 The Yellowdog Updater Modified (YUM) is a robust utility that installs Red Hat
 Package Manager (RPM) packages. YUM:

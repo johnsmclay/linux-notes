@@ -1,7 +1,4 @@
----
-layout: page
-title:  Openssh Configuration Files And Commands
----
+# Openssh Configuration Files And Commands
 
 OpenSSH configuration files let administrators customize settings for SSH
 access and availability. Configuration tasks include:

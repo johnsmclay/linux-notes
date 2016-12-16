@@ -1,7 +1,4 @@
----
-layout: page
-title:  Common Ip Protocols
----
+# Common Ip Protocols
 
 A _protocol_ is a set of standards for communication between network hosts.
 Protocols often provide services, such as e-mail or file transfer. Most

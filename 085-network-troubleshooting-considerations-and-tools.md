@@ -1,7 +1,4 @@
----
-layout: page
-title:  Network Troubleshooting Considerations And Tools
----
+# Network Troubleshooting Considerations And Tools
 
 When troubleshooting network communications, consider the following:
 

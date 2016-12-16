@@ -1,7 +1,4 @@
----
-layout: page
-title:  Simple Script Facts
----
+# Simple Script Facts
 
 At its most basic level, a _script_ is a command or commands stored in a file.
 When the shell reads the file, it executes the commands as if they were typed

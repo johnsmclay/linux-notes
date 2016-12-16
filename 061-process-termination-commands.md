@@ -1,7 +1,4 @@
----
-layout: page
-title:  Process Termination Commands
----
+# Process Termination Commands
 
 Use the following commands to terminate running processes:
 

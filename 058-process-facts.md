@@ -1,7 +1,4 @@
----
-layout: page
-title:  Process Facts
----
+# Process Facts
 
 A _process_ refers to a program that is running in memory and in the CPU. Be
 aware of the following file types which create processes on a Linux system:

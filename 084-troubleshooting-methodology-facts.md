@@ -1,7 +1,4 @@
----
-layout: page
-title:  Troubleshooting Methodology Facts
----
+# Troubleshooting Methodology Facts
 
 Good troubleshooting is a process that combines knowledge, experience, and
 intuition. The following process has proven effective in a variety of

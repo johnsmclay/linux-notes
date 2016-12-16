@@ -1,7 +1,4 @@
----
-layout: page
-title:  Umask Facts
----
+# Umask Facts
 
 A _umask_ changes (removes) the default file and directory permissions. By
 default, files receive rw-rw-rw- (666) permissions, and directories receive

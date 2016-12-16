@@ -1,7 +1,4 @@
----
-layout: page
-title:  Sql Facts
----
+# Sql Facts
 
 Structured Query Language (SQL) is used in most database applications. It
 provides commands for working with databases and tables, for populating tables

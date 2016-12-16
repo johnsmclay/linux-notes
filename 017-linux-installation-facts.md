@@ -1,7 +1,4 @@
----
-layout: page
-title:  Linux Installation Facts
----
+# Linux Installation Facts
 
 The following table describes the general steps necessary to install a Linux
 operating system:

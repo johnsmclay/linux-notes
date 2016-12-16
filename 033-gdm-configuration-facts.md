@@ -1,7 +1,4 @@
----
-layout: page
-title:  Gdm Configuration Facts
----
+# Gdm Configuration Facts
 
 The Gnome Display Manager (GDM) is a tool that manages login functions on a
 local computer or over a network. GDM:

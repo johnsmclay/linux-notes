@@ -1,7 +1,4 @@
----
-layout: page
-title:  Kernel Module Management Facts
----
+# Kernel Module Management Facts
 
 When the system boots, it uses one of the following files to automatically
 load kernel modules. (**Note**: The exact file used depends on the

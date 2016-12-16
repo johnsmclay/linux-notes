@@ -1,7 +1,4 @@
----
-layout: page
-title:  Content Search Commands
----
+# Content Search Commands
 
 **Grep** searches through file text for specific words or character patterns. The following table describes the **grep**, **egrep**, and **fgrep** commands and lists several of their options.
 

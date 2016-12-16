@@ -1,7 +1,4 @@
----
-layout: page
-title:  Device File Names
----
+# Device File Names
 
 Storage devices in Linux are represented by device files.
 

@@ -1,7 +1,4 @@
----
-layout: page
-title:  Public Key Authentication Facts
----
+# Public Key Authentication Facts
 
 Public key authentication uses a public key instead of a password to log in to
 a computer. The computer uses the following method to authenticate using a

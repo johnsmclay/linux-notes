@@ -1,7 +1,4 @@
----
-layout: page
-title:  Log File Facts
----
+# Log File Facts
 
 Log files are records of information about kernel and daemon errors. Log
 files:

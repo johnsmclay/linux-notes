@@ -1,7 +1,4 @@
----
-layout: page
-title:  Log File Display Commands
----
+# Log File Display Commands
 
 The following table describes commands to view and manage text-based log
 files:

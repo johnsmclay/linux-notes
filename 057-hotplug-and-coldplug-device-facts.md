@@ -1,7 +1,4 @@
----
-layout: page
-title:  Hotplug And Coldplug Device Facts
----
+# Hotplug And Coldplug Device Facts
 
 Be aware of the following device categories when managing hardware:
 

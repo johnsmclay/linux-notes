@@ -1,7 +1,4 @@
----
-layout: page
-title:  Shell Configuration Facts
----
+# Shell Configuration Facts
 
 Shell configuration files are scripts that execute when a shell starts. The
 shell type determines which shell configuration files are executed. Shell

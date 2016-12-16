@@ -1,7 +1,4 @@
----
-layout: page
-title:  Cpio And Dd Facts
----
+# Cpio And Dd Facts
 
 Be aware of the following **cpio** and **dd** utility details:
 

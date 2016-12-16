@@ -1,7 +1,4 @@
----
-layout: page
-title:  Common Log Files
----
+# Common Log Files
 
 Be aware of the following common log files:
 

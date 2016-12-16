@@ -1,7 +1,4 @@
----
-layout: page
-title:  Xdm Configuration Facts
----
+# Xdm Configuration Facts
 
 The X Display Manager (XDM) is an X Window system display manager that allows
 users to log in to a Linux computer locally or from another computer on the

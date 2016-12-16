@@ -1,7 +1,4 @@
----
-layout: page
-title:  Shared Libraries Facts
----
+# Shared Libraries Facts
 
 _Shared libraries_ are code loaded into memory and reused by several different
 programs. This allows the program file size to be relatively small, as it will

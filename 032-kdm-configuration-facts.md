@@ -1,7 +1,4 @@
----
-layout: page
-title:  Kdm Configuration Facts
----
+# Kdm Configuration Facts
 
 The KDE Display Manager (KDM) is the display manager supported by the KDE
 software organization. KDM:
